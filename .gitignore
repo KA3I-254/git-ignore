@@ -1,0 +1,6 @@
+secrets.txt
+
+# This is a comment
+
+
+# *.txt   This is a wildcard - it ignores all files with a .txt extension
